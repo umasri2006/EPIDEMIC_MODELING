@@ -143,9 +143,3 @@ streamlit run 05_app.py
 ## Important Note
 
 Large datasets and generated outputs are not included in the repository due to size limitations. The repository contains all source code required to reproduce data processing, simulation, forecasting, and dashboard workflows.
-
----
-
-## GitHub Repository
-
-https://github.com/umasri2006/EPIDEMIC_MODELING
