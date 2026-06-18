@@ -105,6 +105,17 @@ python 04_train_ai_model.py
 streamlit run 05_app.py
 ```
 
+## Dashboard Preview
+
+### Global Overview
+![Global Dashboard](output/global_dashboard.png)
+
+### Country Threat Ledger
+![Country Threat Ledger](output/country_threat_ledger.png)
+
+### Localized Analysis & Filters
+![Country Filter Analysis](output/country_filter_analysis.png)
+
 ---
 
 ## Technologies Used
